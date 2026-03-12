@@ -7,7 +7,7 @@ Our platform is built to solve the "Unique Identity" problem for gamers and bran
 
 * **[Nickname Finder](https://quickcountertools.com/nickname-finder/)** – Discover unique, stylized nicknames that stand out in competitive gaming environments.
 * **[Name Combiner](https://quickcountertools.com/name-combiner/)** – Uses a mathematical approach to merge distinct names into a cohesive, brandable identity.
-* **[Gamer Tag Generator](https://quickcountertools.com/gamer-tag-generator/)** – Focused on the **Compound Word Method** to create memorable and available tags for eSports.
+* **[Gamertag Generator](https://quickcountertools.com/gamertag-generator/)** – Focused on the **Compound Word Method** to create memorable and available tags for eSports.
 
 ## 🧠 The Naming Logic (Why Use Our Tools?)
 We don't just randomize letters. Our tools are built on professional naming strategies used by branding experts and pro-gamers:
